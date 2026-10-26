@@ -13,3 +13,4 @@ return [
     'telp_kop'       => 'Telp. (021) 3103591, Fax. (021) 3103592',
     'website_kop'    => 'www.kemsos.go.id',
 ];
+
